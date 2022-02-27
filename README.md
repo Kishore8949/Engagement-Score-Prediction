@@ -2,7 +2,7 @@
 
 **Objective**:
 
-1. Predicting the Engagement Score Prediction.
+  Predicting the Engagement Score Prediction.
 
 **Dataset Description**:
 
